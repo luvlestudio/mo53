@@ -46,22 +46,22 @@ window.onload = () => {
     Kakao.Share.sendDefault({
       objectType: "feed",
       content: {
-        title: "양지민 ♥ 이소진의 모바일 청첩장",
-        description: "2025년 3월 22일 토요일♡",
-        imageUrl: "https://i.imgur.com/GwH5Bwe.png",
+        title: "백선규 ♥ 유은비의 모바일 청첩장",
+        description: "2025년 4월 13일 일요일♡",
+        imageUrl: "https://i.imgur.com/lBTnVLk.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
-          mobileWebUrl: "https://mo51.luvle.co.kr",
-          webUrl: "https://mo51.luvle.co.kr",
+          mobileWebUrl: "https://mo53.luvle.co.kr",
+          webUrl: "https://mo53.luvle.co.kr",
         },
       },
       buttons: [
         {
           title: "자세히 보기",
           link: {
-            mobileWebUrl: "https://mo51.luvle.co.kr",
-            webUrl: "https://mo51.luvle.co.kr",
+            mobileWebUrl: "https://mo53.luvle.co.kr",
+            webUrl: "https://mo53.luvle.co.kr",
           },
         },
       ],
