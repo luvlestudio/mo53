@@ -47,7 +47,7 @@ window.onload = () => {
       objectType: "feed",
       content: {
         title: "백선규 ♥ 유은비의 모바일 청첩장",
-        description: "2025년 4월 13일 일요일<br>오후 12시 10분♡",
+        description: "2025년 4월 13일 일요일♡",
         imageUrl: "https://i.imgur.com/lBTnVLk.png",
         imageWidth: 1200,
         imageHeight: 630,
